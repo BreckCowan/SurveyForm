@@ -5,8 +5,16 @@
     font-family: Poppins;
 }
 
+.text-centered{
+    text-align: center;
+}
 
 .container{
-    display: flexbox;
+    display: block;
     flex-direction: column;
+    width: 90%;
+}
+
+.form{
+    display: block;
 }
