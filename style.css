@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 *{
-    background-color:lightblue;
+    border: 1px solid red;
+    font-family: Poppins;
+}
+
+
+.container{
+    display: flexbox;
+    flex-direction: column;
 }
